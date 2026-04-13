@@ -10,7 +10,7 @@ Sistema para auxiliar pequenos e médios agricultores no gerenciamento de suas p
 - [ ] Relatórios de produtividade
 
 ## Equipe
-- Desenvolvedor: [Seu Nome]
+- Desenvolvedor: Wanderson William dos Santos
 
 ## Tecnologias
 - Python 3.9+
